@@ -1,5 +1,8 @@
 # pojia-armor
 
+
+- 当前：`v0.1.0`
+- 最新：`v0.1.0`（[Releases](https://github.com/QUNIXNG/pojia-armor/releases)）
 Pi / PiDeck 扩展：按模型 ID，在请求前把指定提示词前置到 system prompt，减少模型答非所问、拒答或转到其他话题的情况。
 
 ## 工作方式
