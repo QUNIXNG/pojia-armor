@@ -5,5 +5,13 @@
   "type": "module",
   "pi": {
     "changelogPath": "./CHANGELOG.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QUNIXNG/pojia-armor.git"
+  },
+  "homepage": "https://github.com/QUNIXNG/pojia-armor#readme",
+  "bugs": {
+    "url": "https://github.com/QUNIXNG/pojia-armor/issues"
   }
 }
