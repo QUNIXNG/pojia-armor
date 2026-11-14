@@ -1,0 +1,6 @@
+{
+  "models": {
+    "deepseek-v4-pro": "prompts/dsv4-pro.md",
+    "deepseek-v4.1-flash": "prompts/dsv41-flash.md"
+  }
+}
